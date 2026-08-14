@@ -35,3 +35,4 @@ libibus-1.0-dev
 libudev-dev
 libthai-dev
 pipewire-alsa
+fluid-soundfont-gm
